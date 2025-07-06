@@ -21,6 +21,7 @@ This is a simple Python project that lets you **encode** and **decode secret mes
 
 # 🤺 How to Use
 Write 1 for Encoding and 2 for Decoding the Message, else enter any other key to exit:
+
 ➤ To Encode:
 Enter 1
 
