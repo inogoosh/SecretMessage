@@ -55,7 +55,7 @@ Decoded Message: hello
 
 # 📁 File Structure
 
-📁 Number-Guessing-Game/
+📁 SecretMessage/
 
 │
 
