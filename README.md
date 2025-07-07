@@ -54,13 +54,18 @@ Enter the password: 250
 Decoded Message: hello
 
 # 📁 File Structure
-main.py     ->    # Main Python script
 
-README.md   ->    # This file
+📁 Number-Guessing-Game/
 
-.gitignore
+│
 
-LICENSE
+├── main.py         (# Main Python script)
+
+├── README.md       (# This file)
+
+├── .gitignore
+
+├── LICENSE
 
 # 📚 Concepts Used
 1. Strings
