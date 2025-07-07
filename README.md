@@ -1,4 +1,4 @@
-# SecretMessage-python
+# SecretMessage
 A Python script to encode and decode secret messages using basic encryption techniques.
 
 # 🔐 Secret Message Encoder & Decoder (Python)
